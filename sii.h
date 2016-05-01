@@ -193,7 +193,7 @@ struct _sii_syncm {
 #define SII_TX_PDO     2
 
 enum ePdoType {
-	RxPDO = SII_RX_PDO
+	RxPDO  = SII_RX_PDO
 	,TxPDO = SII_TX_PDO
 };
 
